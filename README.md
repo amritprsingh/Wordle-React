@@ -1,29 +1,17 @@
-# Wordle Clone in React
+# Wordle Developed in React
 
-![Wordle Clone](./src/assets/wordleBg.png)
+Welcome to my Wordle project! This is a fully functional Wordle game clone playable in any environment with crisp graphics and functionality. 
 
-Welcome to my Wordle Clone project! This is a fully functional Wordle game clone which replicates most, if not all, of its classic features. This project was built for a [tutorial on my YouTube channel](https://youtu.be/YmRS04CLarY).
+Features: 
+- Chooses a Random Word From An Exhaustive List Of 5-Letter Words 
+- Classical Typing and Reveal Animations
+- Cloned Color Indicators and Functions
+- Virtual Keyboard To Select Letters With Your Mouse
 
-This Wordle Clone features:
 
-- 🎲 Random Solution Generator
-- ✨ Cool Reveal and Typing Animations
-- 📬 Interactive Notification Messages
-- 🧩 Comprehensive Word Interaction Functionalities
 
-Users can seamlessly:
+Additional Features:
+- Unlimited Plays! Start A New Game Whenever Your Want
+- Medium Difficulty With 6 Letter Words
+- Hard Difficulty With 7 Letter Words
 
-- 🖋 Enter, Submit, and Delete Words
-- ⌨️ Enjoy a Functional Virtual Keyboard
-
-The application intelligently marks tried letters as:
-
-- ❌ Absent
-- ➡️ Present
-- ✔️ Correct
-
-# Usage
-
-Feel free to clone this repo and use it as a backup while going through the tutorial, or expand it to build an even better Wordle clone.
-
-To start the project run `yarn` and `yarn dev` in your repo folder.
