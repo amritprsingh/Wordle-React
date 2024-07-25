@@ -1,0 +1,82 @@
+.wordle {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  align-items: center;
+
+  &:focus {
+    outline: none;
+  }
+}
+
+.homeTitle {
+  font-size: 3rem;
+}
+.wordleTitle {
+  color: rgb(11, 194, 11);
+}
+
+.reactTitle {
+  color: rgb(184, 184, 0);
+}
+
+.title {
+  text-transform: capitalize;
+  font-size: 2rem;
+  margin-bottom: 2%;
+}
+
+.button1,
+.button2,
+.button3 {
+  font-size: 2rem;
+  padding: 2%;
+  width: 30%;
+  margin-bottom: 2%;
+  border-radius: 50%;
+  transition: 0.25s background-color;
+}
+
+.newBtn {
+  width: 25%;
+  font-size: 0.75rem;
+  display: inline;
+  padding: 1%;
+  font-weight: bold;
+  transition: 0.25s background-color;
+}
+
+.newBtn:hover {
+  background-color: rgb(11, 194, 11);
+  color: white;
+}
+
+.button1:hover {
+  background-color: rgb(11, 194, 11);
+  color: white;
+}
+.button2:hover {
+  background-color: rgb(184, 184, 0);
+  color: white;
+}
+.button3:hover {
+  background-color: rgb(208, 6, 6);
+  color: white;
+}
+
+.homeLetter {
+  font-size: 1.5rem;
+}
+.notification {
+  text-align: center;
+  height: 1rem;
+  margin: 1em;
+  margin-top: 2%;
+  color: salmon;
+  font-weight: 600;
+  font-size: 1.25rem;
+
+  &--green {
+    color: #538d4e;
+  }
+}
