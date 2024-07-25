@@ -12,7 +12,7 @@ Additional Features:
 - Unlimited Plays! Start A New Game Whenever Your Want
 - Medium Difficulty With 6 Letter Words
 - Hard Difficulty With 7 Letter Words
-- 
+  
 ![Wordle Clone](./src/wordle.png)
 
 ![Wordle Clone](./src/home.png)
