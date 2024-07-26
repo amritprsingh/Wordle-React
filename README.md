@@ -13,6 +13,13 @@ Additional Features:
 - Unlimited Plays! Start A New Game Whenever Your Want
 - Medium Difficulty With 6 Letter Words
 - Hard Difficulty With 7 Letter Words
+
+Skills Used: 
+- React
+- Vite
+- SASS (.scss)
+
+Run Code With 'npm run dev'
   
 ![Wordle Clone](./src/wordle.png)
 
