@@ -1,4 +1,4 @@
-# Wordle Developed in React
+# Wordle 2.0 Developed in React
 
 Welcome to my Wordle project! 
 This is a fully functional Wordle game clone playable in any environment with crisp graphics and functionality. 
